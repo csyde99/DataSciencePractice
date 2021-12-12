@@ -1,0 +1,41 @@
+# 1 question
+* - mathematical operator
+'hello' - String (value)
+-87.8 -  integer (value)
+-  mathematical operator
+/ - mathematical operator
++ - mathermatical operator
+6 - value
+
+
+# 2 question
+Variable can hold a string as value
+
+#3 
+Three different data types:  integer, string, boolean
+    
+#4 
+Expression will calculate the value and assign the value to a variable.
+
+#5
+statement represent an action or command. Expression is a combination of variables, 
+operations and values that give a result value. 
+
+#6 bacon + 1
+23
+
+#7  
+spamspamspam
+spamspamspam
+
+#8 
+eggs is a valid variable name:  variable name should start with a letter
+100 is not a valid variable name: variable name should not start with a number.
+    
+#9 
+integer:  int()
+float:  float()
+string: str()
+
+#10 
++ can only concatenate string - not int to string
